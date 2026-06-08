@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>DIATOU GLOBAL EXPRESS</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+margin:0;
+padding:0;
+background:#f4f4f4;
+}
+
+header{
+background:#003366;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+.hero{
+padding:40px;
+text-align:center;
+background:white;
+}
+
+.hero h1{
+color:#003366;
+}
+
+.btn{
+background:#0066cc;
+color:white;
+padding:12px 25px;
+text-decoration:none;
+border-radius:5px;
+display:inline-block;
+margin-top:15px;
+}
+
+.section{
+padding:30px;
+background:white;
+margin:10px;
+border-radius:10px;
+}
+
+footer{
+background:#003366;
+color:white;
+text-align:center;
+padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>DIATOU GLOBAL EXPRESS</h1>
+<p>Fast • Secure • Reliable</p>
+</header>
+
+<div class="hero">
+<h1>Welcome To DIATOU GLOBAL EXPRESS</h1>
+
+<p>
+Professional Cargo, Logistics &
+Shipment Delivery Services.
+</p>
+
+<a class="btn"
+href="https://wa.me/966XXXXXXXXX">
+Contact Us
+</a>
+</div>
+
+<div class="section">
+<h2>Our Services</h2>
+
+<ul>
+<li>Cargo Shipping</li>
+<li>Door To Door Delivery</li>
+<li>Package Tracking</li>
+<li>International Logistics</li>
+<li>Express Delivery</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Track Shipment</h2>
+
+<input type="text"
+placeholder="Enter Tracking Number"
+style="padding:10px;width:80%;">
+
+<br><br>
+
+<button class="btn">
+Track Package
+</button>
+
+</div>
+
+<div class="section">
+<h2>Contact Us</h2>
+
+<p>Email:
+Yahyaharuna11@gmail.com</p>
+
+<p>Company:
+DIATOU GLOBAL EXPRESS</p>
+
+</div>
+
+<footer>
+
+© 2026 DIATOU GLOBAL EXPRESS
+
+</footer>
+
+</body>
+</html>
